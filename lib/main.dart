@@ -1,4 +1,4 @@
-import 'package:bluetooth_demo/view/splash_screen.dart';
+import 'package:bluetooth_app/view/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());

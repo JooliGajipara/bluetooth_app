@@ -1,4 +1,4 @@
-import 'package:bluetooth_demo/view/home_screen.dart';
+import 'package:bluetooth_app/view/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatefulWidget {
